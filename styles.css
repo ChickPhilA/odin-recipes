@@ -1,0 +1,13 @@
+body {
+    background-color: chocolate;
+}
+
+#title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    text-align: center;
+}
+
+.centered {
+    text-align: center;
+}
