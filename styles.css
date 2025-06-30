@@ -2,10 +2,31 @@ body {
     background-color: chocolate;
 }
 
+h6 {
+    margin: auto;
+    text-align: center;
+}
+
+.photo-container {
+    padding: 20px;
+    border: 20px solid salmon;
+}
+
+.photo-container #photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 30px solid green;
+    width: 350px;
+    padding: 25px;
+}
+
 #title {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 800;
     text-align: center;
+
+    border: 5px ridge yellow;
 }
 
 .centered {

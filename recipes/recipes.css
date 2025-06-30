@@ -1,0 +1,14 @@
+body {
+    background-color: khaki;
+}
+
+.list {
+    border: 2px dashed black;
+}
+
+/* basically the title */
+h1.list {
+    text-align: center;
+    background-color: pink;
+    font-family: "Comic Sans MS", cursive;
+}
